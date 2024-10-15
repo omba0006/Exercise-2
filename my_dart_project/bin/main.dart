@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:my_dart_project/lucky.dart'; // Adjust the package name as needed
+import 'package:my_dart_project/lucky.dart'; 
 
 void main(List<String> arguments) {
   for (String name in arguments) {
